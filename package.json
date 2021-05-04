@@ -1,5 +1,5 @@
 {
-  "name": "e5_server",
+  "name": "blog_server",
   "version": "1.0.0",
   "description": "project server",
   "main": "server.js",
