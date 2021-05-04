@@ -3,10 +3,10 @@ Server from the react blog
 
 # Installation 
 
-Install de application using npm install or yarn install
+Install de application using npm install or yarn install.
 
-Change the port's application son it can listen to port=5000 using $env:PORT=5000
-You can now have the client side and the server running to use the application
+Change the port's application so it can listen to port=5000 using $env:PORT=5000
+You can now have the client side and the server running to use the application.
 
 # Available Scripts
 In the project directory, you can run:
