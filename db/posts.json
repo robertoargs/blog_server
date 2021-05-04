@@ -1,0 +1,71 @@
+[{
+  "_id": {
+    "$oid": "60709def3cb21865d876bd3c"
+  },
+  "comments": [
+    {
+      "username": "robertoargs",
+      "comment": "Primer comentario",
+      "date": 1617999090314
+    },
+    {
+      "username": "nestor",
+      "comment": "Segundo comentario",
+      "date": 1617999111017
+    },
+    {
+      "username": "anon_acd45789",
+      "comment": "Tercer comentario",
+      "date": 1617999174392
+    },
+    {
+      "username": "gutierrez",
+      "comment": "comentario de prueba",
+      "date": 1618001637863
+    },
+    {
+      "username": "Roberto Gutiérrez",
+      "comment": "Esto es el primer comentario insertado desde la app",
+      "date": 1618002928680
+    },
+    {
+      "username": "Hola",
+      "comment": "Hola esto es la prueba",
+      "date": 1618002983402
+    },
+    {
+      "username": "ff",
+      "comment": "ff",
+      "date": 1618003039368
+    }
+  ],
+  "username": "robertoargs",
+  "email": "robertoargs@gmail.com",
+  "image": "C:\\fakepath\\Normativa.txt",
+  "title": "Asta y Yuno",
+  "text": "Personaje principal de la obra. Cándido, apasionado y positivo, de estatura baja, voz gruesa y reacciones exageradas. Un jovencito caracterizado por presentar un pelo de lobo ceniciento y ojos verdes. Porta un pañuelo negro con una cruz roja estilizada a forma de estrella bordada, que tiempo después Vanessa le borda la insignia de los Toros Negros en el lado opuesto; que lo tiene puesto en la cabeza a modo de bandana.",
+  "date": {
+    "$date": "2021-04-09T18:33:19.830Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6070c7f8cb4a80685c6ee0e8"
+  },
+  "comments": [
+    {
+      "username": "robertoargs",
+      "comment": "Primer comentario de la publicación",
+      "date": 1618003990941
+    }
+  ],
+  "username": "Yami",
+  "email": "yami@gmail.com",
+  "image": "C:\\fakepath\\Normativa.txt",
+  "title": "Publicación de Prueba",
+  "text": "Esto es una prueba",
+  "date": {
+    "$date": "2021-04-09T21:32:41.002Z"
+  },
+  "__v": 0
+}]
