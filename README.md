@@ -1,27 +1,28 @@
 # react_blog_server
 Server from the react blog
 
-#Installation 
+# Installation 
+
 Install de application using npm install or yarn install
 
 Change the port's application son it can listen to port=5000 using $env:PORT=5000
 You can now have the client side and the server running to use the application
 
-Available Scripts
+# Available Scripts
 In the project directory, you can run:
 
-yarn start - npm start
+# yarn start - npm start
 Runs the app in the development mode.
 Open http://localhost:5000 to view it in the browser.
 
 The page will reload if you make edits.
 You will also see any lint errors in the console.
 
-yarn test
+# yarn test
 Launches the test runner in the interactive watch mode.
 See the section about running tests for more information.
 
-yarn build
+# yarn build
 Builds the app for production to the build folder.
 It correctly bundles React in production mode and optimizes the build for the best performance.
 
